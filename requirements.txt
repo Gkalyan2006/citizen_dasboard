@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+requests
+pymupdf
+tiktoken
+groq
